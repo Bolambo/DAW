@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="horario.xsl"?>
+<horario>
+	<dia>
+		<numdia>1</numdia>
+		<tarea prioridad="media">
+			<hora-ini>12</hora-ini>
+			<hora-fin>13</hora-fin>
+			<nombre>Tutorias</nombre>
+		</tarea>
+	</dia>
+  <dia>
+		<numdia>2</numdia>
+		<tarea prioridad="alta">
+			<hora-ini>12</hora-ini>
+			<hora-fin>13</hora-fin>
+			<nombre>Automatas</nombre>
+		</tarea>
+		<tarea prioridad="media">
+			<hora-ini>18</hora-ini>
+			<hora-fin>19</hora-fin>
+			<nombre>Programacion</nombre>
+		</tarea>
+		<tarea prioridad="media">
+			<hora-ini>10</hora-ini>
+			<hora-fin>11</hora-fin>
+			<nombre>Redes</nombre>
+		</tarea>
+		<tarea prioridad="media">
+			<hora-ini>14</hora-ini>
+			<hora-fin>18</hora-fin>
+			<nombre>Redes</nombre>
+		</tarea>
+		
+	</dia>
+		<dia>
+		<numdia>4</numdia>
+		<tarea prioridad="alta">
+			<hora-ini>9</hora-ini>
+			<hora-fin>10</hora-fin>
+			<nombre>PL</nombre>
+		</tarea>
+			<tarea >
+			<hora-ini>16</hora-ini>
+			<hora-fin>17</hora-fin>
+			<nombre>Programacion Avanzada</nombre>
+		</tarea>
+	</dia>
+			<dia>
+		<numdia>3</numdia>
+		<tarea prioridad="alta">
+			<hora-ini>9</hora-ini>
+			<hora-fin>10</hora-fin>
+			<nombre>PL</nombre>
+		</tarea>
+	</dia>
+			<dia>
+		<numdia>5</numdia>
+		<tarea prioridad="baja">
+			<hora-ini>17</hora-ini>
+			<hora-fin>18</hora-fin>
+			<nombre>Ver la tele</nombre>
+		</tarea>
+		<tarea prioridad="alta">
+			<hora-ini>9</hora-ini>
+			<hora-fin>10</hora-fin>
+			<nombre>estudiar mucho</nombre>
+		</tarea>
+		
+	</dia>
+</horario>
